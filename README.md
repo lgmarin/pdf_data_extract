@@ -19,8 +19,8 @@ Development of a simple UI tha allows reading the temperature on the fly and gen
 
 ## Dependencies
 
-[PyMuPDF](https://github.com/pymupdf/PyMuPDF-Utilities)
+* [PyMuPDF](https://github.com/pymupdf/PyMuPDF-Utilities)
 
 ## References
-[Catálogo Hortaliças EMBRAPA](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/194354/1/Catalogo-hortalicas.pdf)
-[Tabela de Plantio de Hortaliças EMBRAPA](https://www.embrapa.br/documents/1355126/2502095/tabela+de+informa%C3%A7%C3%B5es+para+o+plantio.docx+%281%29.pdf/66c01c27-30bf-8de4-9691-0dd365746d3f)
+* [Catálogo Hortaliças EMBRAPA](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/194354/1/Catalogo-hortalicas.pdf)
+* [Tabela de Plantio de Hortaliças EMBRAPA](https://www.embrapa.br/documents/1355126/2502095/tabela+de+informa%C3%A7%C3%B5es+para+o+plantio.docx+%281%29.pdf/66c01c27-30bf-8de4-9691-0dd365746d3f)
