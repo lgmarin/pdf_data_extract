@@ -6,7 +6,7 @@
 
 This script was made to help to extract some data from a PDF file. The data will be used in an API project idea latter.
 
-The information and data used in this project is available through the [EMBRAPA](www.embrapa.com.br) website and will be used for learning and study purposes and not for commercial use.
+The information and data used in this project is available through the [EMBRAPA](https://www.embrapa.com.br) website and will be used for learning and study purposes and not for commercial use.
 
 
 ## Objectives
