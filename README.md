@@ -11,15 +11,16 @@ The information and data used in this project is available through the [EMBRAPA]
 
 ## Objectives
 
-Development of a simple UI tha allows reading the temperature on the fly and generate a CSV file with all data:
+Jupyter Notebook for learning purposes, manipulation and extraction of text data from a PDF file
 
-* Development of a Python based UI using wxPython module
-* Allow for real time tracking of data
-* Allow for generation of CSV report
+* Extract text from PDF pages in a structure manner
+* Extract data from a table in a PDF file
+* Cleaning and manipulation of data from PDF files
 
 ## Dependencies
 
 * [PyMuPDF](https://github.com/pymupdf/PyMuPDF-Utilities)
+* [Tabula-py](https://tabula-py.readthedocs.io/en/latest/)
 
 ## References
 * [Catálogo Hortaliças EMBRAPA](https://ainfo.cnptia.embrapa.br/digital/bitstream/item/194354/1/Catalogo-hortalicas.pdf)
